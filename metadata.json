@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Video Backdrop Chat",
+  "description": "An iOS-styled, beautifully blurred Gemini conversational interface with a looping background video, offering smooth animations and real-time query responses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
